@@ -1,2 +1,2 @@
-# Project-21
-Practice with functions and arguments
+# p5.play-boilerplate
+Boiler plate for p5.play
